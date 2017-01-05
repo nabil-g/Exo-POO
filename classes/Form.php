@@ -7,7 +7,7 @@ class Form {
     protected $subBtn = '<button type="submit"></button>';
     protected $textarea = '<textarea></textarea>';
     protected $radio = '<input type="radio">';
-    protected $checkbox = '<input type="checkbox"';
+    protected $checkbox = '<input type="checkbox">';
     protected  $fin = '</form>';
 
     public function getDebut()

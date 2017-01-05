@@ -20,6 +20,7 @@
 
             echo $monForm->getDebut();
             echo  $monForm->getInputText();
+            echo $monForm->getCheckbox();
             echo $monForm->getFin();
 
             echo $htmeul->setImage("dog.jpg", "chien");
